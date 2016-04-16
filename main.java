@@ -26,8 +26,4 @@ aaa aaaa
 	
 nowa linia	
 
-
-
-
-
-XX
+jeszcze nowsza linia
