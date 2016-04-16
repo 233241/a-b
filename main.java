@@ -1,25 +1,27 @@
 a
 aa
-aaa aaaaa
+aaa
+aaaa
+aaaaa
+
 aaaaaa
 aaaaaaa
-
+aaa aaaa
 	
 	
+	b
+	bb
 	
 	c
 	
+	bbb
+	bbbb
+	
+	bbbbb
 	
 	
 	ccc
 	
 	
 	
-	
-	
-	ccc
-	cc
-	c
-	
-	
-	ccccc
+nowa linia	
